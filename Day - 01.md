@@ -26,7 +26,7 @@ Hi all
 Welcome to #50 Days of JavaScript with Inshira ,
 let start learning JavaScript
 
-##variable cal with number
+##3.variable cal with number
 let length = 5;
 console.log(length);
 console.log(length*length*3);
@@ -35,7 +35,7 @@ outpu:
 5
 75
 
-##variable added with string
+##4.variable added with string
 let length = "ranjith";
 console.log(length);
 console.log(length + "kumar");
@@ -44,13 +44,13 @@ output:
 ranjith
 ranjithkumr
 
-##3.Basic JavaScript: Declare JavaScript VariablesPassed
+##5.Basic JavaScript: Declare JavaScript VariablesPassed
 
 ```
 var myName;
 ```
 
-##4.Basic JavaScript: Storing Values with the Assignment Operator
+##6.Basic JavaScript: Storing Values with the Assignment Operator
 
 ```
 // Setup
@@ -61,12 +61,12 @@ var b = a;
 // Only change code below this line
 ```
 
-##5.Basic JavaScript: Initializing Variables with the Assignment Operator
+##7.Basic JavaScript: Initializing Variables with the Assignment Operator
 ```
 var a = 9;
 ```
 
-##6.Basic JavaScript: Understanding Uninitialized Variables
+##8.Basic JavaScript: Understanding Uninitialized Variables
 ```
 var a = 5;
 var b = 10;
@@ -77,7 +77,7 @@ b = b + 5;
 c = c + " String!";
 ```
 
-##7.Basic JavaScript: Understanding Case Sensitivity in Variables
+##9.Basic JavaScript: Understanding Case Sensitivity in Variables
 ```
 // Variable declarations
 var StUdLyCapVaR;
